@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyans17&label=Profile%20views&color=0e75b6&style=flat" alt="priyans17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyans17" alt="priyans17" /></a> </p>
-
 - 🔭 I’m currently working on **Carbon Footprint Estimation**
 
 - 🌱 I’m currently learning **MERN Stack, NextJS, Docker, etc**
@@ -33,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyans17&show_icons=true&locale=en&layout=compact" alt="priyans17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyans17&show_icons=true&locale=en" alt="priyans17" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyans17&" alt="priyans17" /></p>
